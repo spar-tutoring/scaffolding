@@ -1,0 +1,1 @@
+Project->Properties->Configuration Properties->VC++ Diretories->IncludeDirectories->new line: dep
